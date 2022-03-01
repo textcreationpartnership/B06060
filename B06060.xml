@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scotch vvooing of Willy and Nanny to a pleasant new tune: or, Nanny O. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06060</idno>
+            <idno type="STC">Wing S966</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[415]</idno>
+            <idno type="EEBO-CITATION">99887881</idno>
+            <idno type="PROQUEST">ocm99887881</idno>
+            <idno type="VID">183535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183535)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[326])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scotch vvooing of Willy and Nanny to a pleasant new tune: or, Nanny O. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Golden Ball in Pye-corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "As I went forth one morning fair ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Love poetry, English --  England --  Early works to 1800.</term>
+               <term>Ballads --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="415" facs="tcp:183535:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>The Scotch VVooing of WILLY and NANNY</head>
+            <opener>To a pleaſant new Tune: Or, <hi>Nanny O.</hi>
+            </opener>
+            <p>
+               <hi>This may be Printed,</hi> R. P.</p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>AS I went forth one Morning fair,</l>
+               <l>all in the midſt of Summer ſpring,</l>
+               <l>There I did hear a young-man lament,</l>
+               <l>and to himſelf began to ſing,</l>
+               <l>
+                  <hi>It's Nanny, Nanny, Nanny O,</hi>
+               </l>
+               <l>
+                  <hi>The Love I bear to Nanny O,</hi>
+               </l>
+               <l>
+                  <hi>all the World ſhall never know,</hi>
+               </l>
+               <l>
+                  <hi>The Love I bear to Nanny O,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Her cheeks, her Cheeks, are lilly white,</l>
+               <l>and her eyes are like the Chriſtial O,</l>
+               <l>She might have been a Lords delight,</l>
+               <l>and her name was called <hi>Nanny O,</hi>
+               </l>
+               <l>
+                  <hi>It's Nanny, Nanny, Nanny O,</hi>
+               </l>
+               <l>
+                  <hi>The love I bear to Nanny O,</hi>
+               </l>
+               <l>
+                  <hi>all the world ſhall never know,</hi>
+               </l>
+               <l>
+                  <hi>The love I bear to Nanny O.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>I will to her Fathers houſe,</l>
+               <l>and ſee what favour he will ſhow,</l>
+               <l>That I may ride o're you miſty Moor,</l>
+               <l>all for to court my <hi>Nanny,</hi> O.</l>
+               <l>
+                  <hi>It's Nanny O,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>I had rather have <hi>Nanny</hi> in her ſmock,</l>
+               <l>ſhe is ſo blith and bonny O,</l>
+               <l>As to have <hi>Betty</hi> with five thouſand marks</l>
+               <l>if that ſhe would but have me O.</l>
+               <l>
+                  <hi>It's Nanny O,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Come ſaddle me my Milk white ſteed,</l>
+               <l>the black was ne'r ſo bonny O,</l>
+               <l>That I may Whip and ride with ſpeed,</l>
+               <l>all for to court my <hi>Nanny O,</hi>
+               </l>
+               <l>
+                  <hi>It's Nanny O,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Same ſaith it is for Means I go,</l>
+               <l>but God forbid it ſhould be ſo,</l>
+               <l>I go for nothing but pure Love,</l>
+               <l>the which I bear to <hi>Nanny O,</hi>
+               </l>
+               <l>
+                  <hi>It's Nanny O,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Some pluck up the Finckel ſeed,</l>
+               <l>and ſome pull up the Tanſie O,</l>
+               <l>A bonny boy to pull off my boots,</l>
+               <l>and to gang to Bed to <hi>Nanny O,</hi>
+               </l>
+               <l>
+                  <hi>It's Nanny O,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>The firſt time I did ſee my love,</l>
+               <l>it was in <hi>Tinmouth Caſtle</hi> O,</l>
+               <l>I thought ſhe was and a bonny Laſs,</l>
+               <l>and every Lad did think her ſo,</l>
+               <l>
+                  <hi>It's Nanny O,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Some takes delight in Cards and Dic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>and other ſome in Dancing O,</l>
+               <l>But I take delight in a bonny Laſs,</l>
+               <l>and her name is called <hi>Nanny O.</hi>
+               </l>
+               <l>
+                  <hi>It's Nanny O,</hi> &amp;c.</l>
+            </lg>
+            <lg>
+               <l>Now to conclude and make an end,</l>
+               <l>I hope there's no one Malice ſhow,</l>
+               <l>To her that's ſuch a bonny Laſs,</l>
+               <l>whoſe name is called <hi>Nanny O,</hi>
+               </l>
+               <l>
+                  <hi>It's Nanny O,</hi> &amp;c.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>P. Brooksby,</hi> at the <hi>Golden Ball</hi> in <hi>Pye-Corners.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
